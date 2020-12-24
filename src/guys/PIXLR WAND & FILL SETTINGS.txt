@@ -1,0 +1,3 @@
+tolerance: 200
+anti alias OFF
+contiguous OFF
